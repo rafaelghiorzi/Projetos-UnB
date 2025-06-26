@@ -24,7 +24,7 @@ Esse repositório contém os projetos desenvolvidos durante meu curso de Ciênci
 
 - **Topologia de Redes**
 
-  Projeto da matéria Redes de Computadores, 2024.2 - UnB. Um estudo sobre topologias de redes, incluindo análise de desempenho e segurança. Veja mais detalhes no [README.md](Topologia-de-Redes/README.md).
+  Projeto da matéria Redes de Computadores, 2024.2 - UnB. Um estudo sobre topologias de redes, incluindo análise de desempenho e segurança. Veja mais detalhes no [README.md](topologia-redes/README.md).
 
 - **Sistema de Gerenciamento de Academia**
 
