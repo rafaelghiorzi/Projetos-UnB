@@ -1,0 +1,7 @@
+sqlalchemy==2.0.41
+geopy==2.4.1
+streamlit==1.45.1
+streamlit_folium==0.25.0
+folium==0.19.6
+pandas==2.2.3
+faker==37.3.0
