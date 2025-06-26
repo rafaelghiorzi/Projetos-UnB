@@ -50,7 +50,7 @@ Esse repositório contém os projetos desenvolvidos durante meu curso de Ciênci
 
 - **Projeto 1: Segurança Computacional**
 
-  Projeto da matéria Segurança Computacional, 2025.1 - UnB. Uma implementação do Simplified DES (SDES) para criptografia de dados. Veja mais detalhes no [notebook colab](https://colab.research.google.com/drive/12OeXkyOC57Y4ljVA8zItMLnCcv5ApGmR?usp=sharing).
+  Projeto da matéria Segurança Computacional, 2025.1 - UnB. Uma implementação do Simplified DES (SDES) para criptografia de dados. Veja mais detalhes no [README.md](implementacao-SDES/README.md).
 
 - **Projeto 2: Segurança Computacional**
 
