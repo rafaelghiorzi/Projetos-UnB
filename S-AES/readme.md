@@ -1,4 +1,4 @@
-# SAES (Simplified Advanced Encryption Standard)
+# Project: SAES (Simplified Advanced Encryption Standard)
 
 A Python implementation of the Simplified AES cipher for educational purposes.
 

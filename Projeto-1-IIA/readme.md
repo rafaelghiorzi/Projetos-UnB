@@ -1,4 +1,4 @@
-# Busca de Produtores Locais
+# Projeto: Busca de Produtores Locais
 
 Projeto desenvolvido para a disciplina de Introdução à Inteligência Artificial que usa um sistema de recomendação baseado em KNN (K-Nearest Neighbors) para sugerir produtores locais aos usuários.
 
