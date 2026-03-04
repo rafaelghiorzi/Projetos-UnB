@@ -8,50 +8,60 @@ Esse repositório contém os projetos desenvolvidos durante meu curso de Ciênci
 
 ### 2023.2
 
-- **Bad Santa**
+- **Projeto Introdução a Sistemas Computacionais: Bad Santa**
 
-  Projeto da matéria Introdução a Sistemas Computacionais, 2023.2 - UnB. Um jogo inspirado no Bad Ice Cream, desenvolvido em Assembly RISC-V com o simulador RARS. Veja mais detalhes no [README.md](Jogo-ISC-Assembly-Risc-V/README.md).
+  Jogo de ação e estratégia baseado em Bad Ice Cream, desenvolvido em Assembly RISC-V no simulador RARS. Detalhes completos no [2023/isc_bad_santa/README.md](2023/isc_bad_santa/README.md).
 
-- **Window Invaders**
+- **Projeto de Algoritmos e Programação de Computadores: Window Invaders**
 
-  Projeto da matéria Algoritmos e Programação de Computadores, 2023.2 - UnB. Um jogo inspirado no clássico Space Invaders, desenvolvido em Python com Pygame. Veja mais detalhes no [README.md](WindowInvaders-APC/README.md).
+  Releitura do clássico Space Invaders, programada em Python com Pygame. Mais informações no [2023/apc_windowInvaders/README.md](2023/apc_windowInvaders/README.md).
 
 ### 2024.2
 
-- **Dropbox de rede interna**
+- **Projeto de Redes de Computadores 1: Dropbox de rede interna**
 
-  Projeto da matéria Redes de Computadores, 2024.2 - UnB. Um sistema de compartilhamento de arquivos em rede local, utilizando sockets e SQLite3 para gerenciamento de usuários e arquivos. Veja mais detalhes no [README.md](Dropbox-Redes-UnB/README.md).
+  Sistema de compartilhamento de arquivos em rede local, com gerenciamento de usuários e arquivos via sockets e SQLite3. Detalhes no [2024/redes_dropbox/README.md](2024/redes_dropbox/README.md).
 
-- **Topologia de Redes**
+- **Projeto de Redes de Computadores 2: Topologia de Redes**
 
-  Projeto da matéria Redes de Computadores, 2024.2 - UnB. Um estudo sobre topologias de redes, incluindo análise de desempenho e segurança. Veja mais detalhes no [README.md](topologia-redes/README.md).
+  Estudo sobre topologias de redes, abordando análise de desempenho e aspectos de segurança. Veja mais no [2024/redes_topologia/README.md](2024/redes_topologia/README.md).
 
-- **Sistema de Gerenciamento de Academia**
+- **Projeto de Técnicas de Programação 1: Sistema de Gerenciamento de Academia**
 
-  Projeto da Matéria Técnicas de Programação 1, 2024.2 - UnB. Um sistema de gerenciamento de academia com funcionalidades de autenticação, reservas de aulas e geração de relatórios. Desenvolvido em Java com Swing e iText. Veja mais detalhes no [README.md](Sistema-tp1/README.md).
+  Sistema de gerenciamento de academia com autenticação, reservas de aulas e geração de relatórios, desenvolvido em Java (Swing e iText). Detalhes no [2024/tp1_sistema_academia/README.md](2024/tp1_sistema_academia/README.md).
 
 ### 2025.1
 
-- **Projeto 1: Teoria e Aplicação de Grafos**
+- **Projeto 1 de Teoria e Aplicação de Grafos: Análise de Grafos**
 
-  Projeto da matéria Teoria e Aplicação de Grafos, 2025.1 - UnB. Uma análise de grafos utilizando a biblioteca NetworkX em Python, explorando propriedades dos grafos e aplicando algoritmos clássicos. Veja mais detalhes no [README.md](Projeto-1-Grafos/README.md).
+  Análise de grafos com NetworkX em Python, explorando propriedades e algoritmos clássicos. Mais detalhes no [2025/grafos_projeto1/README.md](2025/grafos_projeto1/README.md).
 
-- **Projeto 2: Teoria e Aplicação de Grafos**
+- **Projeto 2 de Teoria e Aplicação de Grafos: Sistema de Emparelhamento Estável**
 
-  A ser implementado
+  Sistema de emparelhamento estável entre alunos e projetos de pesquisa, baseado em uma variação do algoritmo de Gale-Shapley. Detalhes no [2025/grafos_projeto2/README.md](2025/grafos_projeto2/README.md).
 
-- **Projeto 1: Introdução à Inteligência Artificial**
+- **Projeto 1 de Introdução à Inteligência Artificial: Sistema de Recomendação**
 
-  Projeto da matéria Introdução à Inteligência Artificial, 2025.1 - UnB. Um sistema de recomendação baseado em KNN (K-Nearest Neighbors) para sugerir produtores locais aos usuários. Veja mais detalhes no [README.md](Projeto-1-IIA/README.md).
+  Sistema de recomendação com KNN (K-Nearest Neighbors) para sugerir produtores locais aos usuários. Mais informações no [2025/iia_projeto1_recomendacao/README.md](2025/iia_projeto1_recomendacao/README.md).
 
-- **Projeto 2: Introdução à Inteligência Artificial**
+- **Projeto 2 de Introdução à Inteligência Artificial: Classificador de Imagens**
 
-  A ser implementado
+  Detecção de árvores em imagens de satélite por meio de modelo YOLO treinado e ajustado. Detalhes no [2025/iia_projeto2_YOLO/README.md](2025/iia_projeto2_YOLO/README.md).
 
-- **Projeto 1: Segurança Computacional**
+- **Projeto 1 de Segurança Computacional: Implementação do Simplified DES**
 
-  Projeto da matéria Segurança Computacional, 2025.1 - UnB. Uma implementação do Simplified DES (SDES) para criptografia de dados. Veja mais detalhes no [README.md](implementacao-SDES/README.md).
+  Implementação do Simplified DES (SDES) para criptografia de dados. Mais detalhes no [2025/seguranca_SDES/README.md](2025/seguranca_SDES/README.md).
 
-- **Projeto 2: Segurança Computacional**
+- **Projeto 2 de Segurança Computacional: Implementação do Simplified AES**
 
-  Projeto da matéria Segurança Computacional, 2025.1 - UnB. Uma implementação do Simplified AES (SAES) para criptografia de dados, com suporte a modos de operação e visualização do estado interno durante o processo de criptografia. Veja mais detalhes no [README.md](S-AES/README.md).
+  Implementação do Simplified AES (SAES) com suporte a modos de operação e visualização do estado interno durante a criptografia. Detalhes no [2025/seguranca_SAES/README.md](2025/seguranca_SAES/README.md).
+
+- **Seminário de Segurança Computacional: Sistema de Blockchain Privado**
+
+  Sistema de blockchain privado com criação e validação de transações via assinaturas digitais RSA e consenso distribuído. Mais informações no [2025/seguranca_seminario/README.md](2025/seguranca_seminario/README.md).
+
+### 2025.2
+
+ - **Projeto de Linguagens de Programação: Algoritmo de assinatura digital ECDSA em Rust**
+
+    Implementação do algoritmo de assinatura digital ECDSA (Elliptic Curve Digital Signature Algorithm) em Rust, utilizando a biblioteca `k256` para operações de curva elíptica. Detalhes no [2025/lp_ECDSA/README.md](2025/lp_ECDSA/README.md).
