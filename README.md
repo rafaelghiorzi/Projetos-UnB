@@ -65,3 +65,9 @@ Esse repositório contém os projetos desenvolvidos durante meu curso de Ciênci
  - **Projeto de Linguagens de Programação: Algoritmo de assinatura digital ECDSA em Rust**
 
     Implementação do algoritmo de assinatura digital ECDSA (Elliptic Curve Digital Signature Algorithm) em Rust, utilizando a biblioteca `k256` para operações de curva elíptica. Detalhes no [2025/lp_ECDSA/README.md](2025/lp_ECDSA/README.md).
+
+### 2026.1
+
+- **Projeto de simulação de microsserviços e Load Balancing**
+
+    Implementação de um sistema de simulação de arquitetura de microsserviços com Load Balancing utilizando a linguagem C com a biblioteca POSIX para utilizar concorrência segura entre threads e memória compartilhada. Detelhes no [2026/projeto_concorrente/README.md](2026/projeto_concorrente/README.md).
